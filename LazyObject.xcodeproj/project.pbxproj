@@ -6,10 +6,15 @@
 	objectVersion = 48;
 	objects = {
 
+/* Begin PBXFileReference section */
+		13FE1A85205A8CF60070EADF /* LazyObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyObject.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		13FE1A7E205A8CE50070EADF = {
 			isa = PBXGroup;
 			children = (
+				13FE1A85205A8CF60070EADF /* LazyObject.swift */,
 			);
 			sourceTree = "<group>";
 		};
